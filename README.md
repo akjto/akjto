@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @akjto
 - 👀 I’m interested in embedded system and deep machine learning
-- 🌱 I’m currently learning and improve my programming knowledge base
+- 🌱 I’m currently learning and improving my programming knowledge base
 - 💞️ I’m looking to collaborate on projects relating to robotics involving machine learning and embedded systems
 - 📫 How to reach me akjto@homeinnoventions.com
 
